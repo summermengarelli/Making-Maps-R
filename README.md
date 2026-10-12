@@ -8,7 +8,7 @@ we will discuss spatial data and the basics of spatial visualization.
 
 Begin by clicking the “Get Started” link below.
 
-[Get Started \>\>\>](sections/1-learninggoals.md)
+[Get Started \>\>\>](sections/1-LearningGoals.md)
 
 ------------------------------------------------------------------------
 

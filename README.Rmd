@@ -13,7 +13,7 @@ Welcome! This GitHub repository contains the materials related to the workshop "
 
 Begin by clicking the "Get Started" link below.
 
-[Get Started >>>](sections/1-learninggoals.md)
+[Get Started >>>](sections/1-LearningGoals.md)
 
 ---
 
