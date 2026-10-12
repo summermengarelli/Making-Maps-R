@@ -1,9 +1,5 @@
-Index
+Making Maps in R
 ================
-Summer Mengarelli
-2026-10-12
-
-# Making Maps in R
 
 Welcome! This GitHub repository contains the materials related to the
 workshop “Making Maps in R.” We will practice making static and

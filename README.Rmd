@@ -1,15 +1,13 @@
 ---
-title: "Index"
-author: "Summer Mengarelli"
-date: "2026-10-12"
+title: "Making Maps in R"
+author: ""
+date: ""
 output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-# Making Maps in R
 
 Welcome! This GitHub repository contains the materials related to the workshop "Making Maps in R." We will practice making static and interactive maps in R using the packages *sf* and *tmap*. Along the way, we will discuss spatial data and the basics of spatial visualization. 
 
