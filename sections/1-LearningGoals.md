@@ -14,8 +14,9 @@ By the end of this workshop, we should be able to:
 
 ## Workshop materials
 
-You may access the workshop materials in the [**materials**](materials/)
-folder of this repository. This folder contains the following files:
+You may access the workshop materials in the
+[**materials**](../materials/) folder of this repository. This folder
+contains the following files:
 
 1.  **mapping.R** – the R script in which we will practice writing code
 2.  **DHC2020-P2.csv** – the attribute data from the Census Bureau,
@@ -28,3 +29,5 @@ folder of this repository. This folder contains the following files:
 Before we jump into R, we will define GIS, spatial data, and the other
 terms we need to know. Click the “Definitions” button below to move to
 the next section.
+
+[Definitions \>\>\>](./2-Definitions.md)

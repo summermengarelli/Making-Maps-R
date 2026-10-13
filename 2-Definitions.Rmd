@@ -1,0 +1,28 @@
+---
+title: "Definitions"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+There are several key terms to cover before we begin working with spatial data. 
+
+## GIS
+
+## Spatial Data
+
+## Attribute Data
+
+## Coordinate Reference System (CRS)
+
+## Clipping
+
+------------------------------------------------------------------------
+
+We are now ready to jump into R. Download the [**mapping.R**](../materials/mapping.R) file and open it in RStudio.
+
+### Data
+
+We will be working with spatial and attribute data from the U.S. Census Bureau, including Indiana census block group data from the 2020 Demographic and Housing Characteristics (DHC), which can be accessed at [data.census.gov](https://data.census.gov/table/DECENNIALDHC2020.P2?q=urban+rural&g=040XX00US18$1500000&d=DEC+Demographic+and+Housing+Characteristics). Additionally, using the [*tigris*](https://cran.r-project.org/web/packages/tigris/index.html) package, we will load in Indiana census block polygons in R. Finally, when we practice clipping, we will use the [County Commissioner Boundaries](https://sjcgis-stjocogis.hub.arcgis.com/datasets/be71408db2274e8b8138fa2ad04c2fa4_0/explore?location=41.597370%2C-86.293999%2C11) polygons from the St. Joseph County GIS portal.
