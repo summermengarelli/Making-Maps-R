@@ -54,7 +54,7 @@ Once the map projection is chosen, the CRS defines how a given feature is locate
 
 Clipping, or a *clip analysis*, involves using the geometry (or geometries) of one spatial layer to "clip out" the geometries from another layer(s). Typically this is done to reduce a project to a given study area (e.g., as we will see in our workshop, reducing a spatial dataset from the entire state of Indiana to St. Joseph County only). The best way to picture clipping is to imagine that the clipping feature is a cookie cutter; this feature should always be a polygon feature, so that the borders of the polygon(s) are the edges of the cookie cutter and the areas within the borders are the empty space through which we will clip the input layer(s). 
 
-![Example of clipping from Esri, showing input layer, clip feature, and output](./clipping.png)
+![Example of clipping from Esri, showing input layer, clip feature, and output.](./clipping.png)
 
 ## Today's R packages
 

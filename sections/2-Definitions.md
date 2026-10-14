@@ -109,9 +109,9 @@ will clip the input layer(s).
 
 <figure>
 <img src="./clipping.png"
-alt="Example of clipping from Esri, showing input layer, clip feature, and output" />
+alt="Example of clipping from Esri, showing input layer, clip feature, and output." />
 <figcaption aria-hidden="true">Example of clipping from Esri, showing
-input layer, clip feature, and output</figcaption>
+input layer, clip feature, and output.</figcaption>
 </figure>
 
 ## Today’s R packages

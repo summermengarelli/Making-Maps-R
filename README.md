@@ -12,8 +12,6 @@ Begin by clicking the “Get Started” link below.
 
 ------------------------------------------------------------------------
 
-------------------------------------------------------------------------
-
 This workshop is offered by the [Navari Family Center for Digital
 Scholarship](cds.library.nd.edu) in the Hesburgh Libraries at the
 University of Notre Dame. Workshop materials were created by [Summer
